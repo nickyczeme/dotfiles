@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nickyczeme@gmail.com
+	name = Nicole Czemerinski
